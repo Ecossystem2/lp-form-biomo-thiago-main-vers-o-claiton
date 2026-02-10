@@ -126,8 +126,8 @@ export function ProjectSummary({ formData }: ProjectSummaryProps) {
               O Projeto
             </h4>
             <div className="bg-white/5 rounded-xl border border-white/10 overflow-hidden backdrop-blur-sm">
-              {formData.projectType && renderItem(<Briefcase size={14} />, 'Tipo', projectTypeLabels[formData.projectType] || formData.projectType)}
-              {formData.urgency && renderItem(<Clock size={14} />, 'Prazo', urgencyLabels[formData.urgency] || formData.urgency)}
+              {formData.projectType && renderItem(<Briefcase size={14} />, 'Tipo', (projectTypeLabels[formData.projectType] || formData.projectType) || '')}
+              {formData.urgency && renderItem(<Clock size={14} />, 'Prazo', (urgencyLabels[formData.urgency] || formData.urgency) || '')}
               {formData.desiredFeatures && formData.desiredFeatures.length > 0 &&
                 renderItem(<CheckCircle2 size={14} />, 'Funcionalidades', `${formData.desiredFeatures.length} selecionadas`)
               }

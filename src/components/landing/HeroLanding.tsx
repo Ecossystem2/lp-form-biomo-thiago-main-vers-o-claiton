@@ -123,9 +123,10 @@ export function HeroLanding({ onStart, variant = 'A' }: HeroLandingProps) {
 
   return (
     <div className="min-h-screen min-h-[100dvh] w-full flex flex-col relative overflow-x-hidden">
-      {/* Dot Shader Background - Interactive WebGL */}
-      <div className="fixed inset-0 z-0">
-        <DotScreenShader />
+      {/* Simple Background - Replacing WebGL to fix Turbopack crashes */}
+      <div className="fixed inset-0 z-0 pointer-events-none bg-gradient-to-br from-black via-zinc-950 to-black">
+        {/* Animated gradient overlay */}
+        <div className="absolute inset-0 bg-gradient-to-br from-emerald-500/5 via-transparent to-cyan-500/5 animate-pulse" style={{ animationDuration: '4s' }} />
       </div>
 
       {/* Header */}
@@ -250,7 +251,12 @@ export function HeroLanding({ onStart, variant = 'A' }: HeroLandingProps) {
               {/* Glow Button */}
               <div
                 className="glowbox glowbox-active cursor-pointer w-full sm:w-auto"
-                onClick={onStart}
+                onClick={(e) => {
+                  e.preventDefault()
+                  e.stopPropagation()
+                  console.log('🎯 Button clicked! Calling onStart...')
+                  onStart()
+                }}
               >
                 <div className="glowbox-animations">
                   <div className="glowbox-glow"></div>

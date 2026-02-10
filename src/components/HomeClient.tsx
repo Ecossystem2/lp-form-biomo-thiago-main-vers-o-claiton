@@ -1,6 +1,6 @@
 'use client'
 
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 import { QuizFunnel } from '@/components/quiz'
 import { HeroLanding } from '@/components/landing/HeroLanding'
 import { FeaturesSection } from '@/components/landing/FeaturesSection'
@@ -14,6 +14,14 @@ interface HomeClientProps {
 
 export function HomeClient({ initialVariant }: HomeClientProps) {
     const [showQuiz, setShowQuiz] = useState(false)
+
+    useEffect(() => {
+        console.log('🔍 HomeClient - showQuiz changed:', showQuiz)
+    }, [showQuiz])
+
+    useEffect(() => {
+        console.log('🔍 HomeClient - initialVariant changed:', initialVariant)
+    }, [initialVariant])
 
     return (
         <AnimatePresence mode="wait">

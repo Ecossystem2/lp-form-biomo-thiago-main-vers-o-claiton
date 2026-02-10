@@ -381,6 +381,9 @@
   border-radius: 100px;
   box-shadow: 23.9px 19.78px 82.49px 0px #00000094;
   flex-wrap: nowrap;
+  pointer-events: auto;
+  position: relative;
+  z-index: 10;
 }
 
 /* ===== Button Itself (Text) ===== */
