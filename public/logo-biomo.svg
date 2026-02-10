@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Camada_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1216.33 1216.33">
+  <!-- Generator: Adobe Illustrator 29.8.2, SVG Export Plug-In . SVG Version: 2.1.1 Build 3)  -->
+  <defs>
+    <style>
+      .st0 {
+        clip-path: url(#clippath-6);
+      }
+
+      .st1 {
+        clip-path: url(#clippath-7);
+      }
+
+      .st2 {
+        clip-path: url(#clippath-4);
+      }
+
+      .st3 {
+        clip-path: url(#clippath-9);
+      }
+
+      .st4 {
+        clip-path: url(#clippath-10);
+      }
+
+      .st5 {
+        fill: #fff;
+      }
+
+      .st6 {
+        clip-path: url(#clippath-11);
+      }
+
+      .st7 {
+        fill: none;
+      }
+
+      .st8 {
+        clip-path: url(#clippath-1);
+      }
+
+      .st9 {
+        fill: #a800d2;
+      }
+
+      .st10 {
+        clip-path: url(#clippath-5);
+      }
+
+      .st11 {
+        clip-path: url(#clippath-8);
+      }
+
+      .st12 {
+        clip-path: url(#clippath-3);
+      }
+
+      .st13 {
+        clip-path: url(#clippath-12);
+      }
+
+      .st14 {
+        fill: #00d3d3;
+      }
+
+      .st15 {
+        clip-path: url(#clippath-2);
+      }
+
+      .st16 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <path class="st7" d="M522.52,636.71v-285.47h-228.38v-114.19h-57.09v399.66h285.47ZM294.14,408.33h171.28v171.28h-171.28v-171.28Z"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <rect class="st9" x="351.24" y="465.43" width="57.09" height="57.09"/>
+    </clipPath>
+    <clipPath id="clippath-2">
+      <rect class="st9" x="351.24" y="808" width="57.09" height="171.28"/>
+    </clipPath>
+    <clipPath id="clippath-3">
+      <rect class="st7" x="351.24" y="237.05" width="171.28" height="57.09"/>
+    </clipPath>
+    <clipPath id="clippath-4">
+      <rect class="st9" x="465.43" y="808" width="57.09" height="171.28"/>
+    </clipPath>
+    <clipPath id="clippath-5">
+      <polygon class="st7" points="237.05 693.81 237.05 979.28 294.14 979.28 294.14 750.9 579.62 750.9 579.62 979.28 636.71 979.28 636.71 693.81 237.05 693.81"/>
+    </clipPath>
+    <clipPath id="clippath-6">
+      <rect class="st9" x="579.62" y="237.05" width="57.09" height="57.09"/>
+    </clipPath>
+    <clipPath id="clippath-7">
+      <rect class="st7" x="579.62" y="351.24" width="57.09" height="285.47"/>
+    </clipPath>
+    <clipPath id="clippath-8">
+      <rect class="st9" x="807.99" y="465.43" width="57.09" height="57.09"/>
+    </clipPath>
+    <clipPath id="clippath-9">
+      <rect class="st9" x="807.99" y="808" width="57.09" height="57.09"/>
+    </clipPath>
+    <clipPath id="clippath-10">
+      <rect class="st7" x="693.81" y="237.05" width="285.47" height="57.09"/>
+    </clipPath>
+    <clipPath id="clippath-11">
+      <path class="st7" d="M693.81,636.71h285.47v-285.47h-285.47v285.47ZM922.18,579.62h-171.28v-171.28h171.28v171.28Z"/>
+    </clipPath>
+    <clipPath id="clippath-12">
+      <path class="st7" d="M693.81,979.28h285.47v-285.47h-285.47v285.47ZM922.18,922.19h-171.28v-171.28h171.28v171.28Z"/>
+    </clipPath>
+  </defs>
+  <path class="st5" d="M522.52,636.71v-285.47h-228.38v-114.19h-57.09v399.66h285.47ZM294.14,408.33h171.28v171.28h-171.28v-171.28Z"/>
+  <g class="st16">
+    <path class="st5" d="M379.79,94.3l342.57,342.57-342.57,342.57L37.23,436.87,379.79,94.3Z"/>
+  </g>
+  <path class="st14" d="M408.33,465.43v57.09h-57.09v-57.09h57.09Z"/>
+  <g>
+    <rect class="st9" x="351.24" y="465.43" width="57.09" height="57.09"/>
+    <g class="st8">
+      <path class="st9" d="M379.78,436.88l57.09,57.09-57.09,57.09-57.09-57.09,57.09-57.09Z"/>
+    </g>
+  </g>
+  <path class="st14" d="M408.33,808v171.28h-57.09v-171.28h57.09Z"/>
+  <g>
+    <rect class="st9" x="351.24" y="808" width="57.09" height="171.28"/>
+    <g class="st15">
+      <path class="st9" d="M379.78,779.45l114.18,114.18-114.18,114.18-114.18-114.18,114.18-114.18Z"/>
+    </g>
+  </g>
+  <path class="st5" d="M522.52,237.05v57.09h-171.28v-57.09h171.28Z"/>
+  <g class="st12">
+    <path class="st5" d="M436.88,151.43l114.18,114.18-114.18,114.18-114.18-114.18,114.18-114.18Z"/>
+  </g>
+  <path class="st14" d="M522.52,808v171.28h-57.09v-171.28h57.09Z"/>
+  <g>
+    <rect class="st9" x="465.43" y="808" width="57.09" height="171.28"/>
+    <g class="st2">
+      <path class="st9" d="M493.96,779.45l114.18,114.18-114.18,114.18-114.18-114.18,114.18-114.18Z"/>
+    </g>
+  </g>
+  <path class="st5" d="M237.05,693.81v285.47h57.09v-228.38h285.48v228.38h57.09v-285.47H237.05Z"/>
+  <g class="st10">
+    <path class="st5" d="M436.88,493.97l342.57,342.57-342.57,342.57L94.31,836.54l342.57-342.57Z"/>
+  </g>
+  <path class="st14" d="M636.71,237.05v57.09h-57.09v-57.09h57.09Z"/>
+  <g>
+    <rect class="st9" x="579.62" y="237.05" width="57.09" height="57.09"/>
+    <g class="st0">
+      <path class="st9" d="M608.16,208.49l57.09,57.09-57.09,57.09-57.09-57.09,57.09-57.09Z"/>
+    </g>
+  </g>
+  <path class="st5" d="M636.71,351.24v285.47h-57.09v-285.47h57.09Z"/>
+  <g class="st1">
+    <path class="st5" d="M608.17,322.69l171.28,171.28-171.28,171.29-171.29-171.29,171.29-171.28Z"/>
+  </g>
+  <path class="st14" d="M865.07,465.43v57.09h-57.09v-57.09h57.09Z"/>
+  <g>
+    <rect class="st9" x="807.99" y="465.43" width="57.09" height="57.09"/>
+    <g class="st11">
+      <path class="st9" d="M836.52,436.89l57.09,57.09-57.09,57.09-57.09-57.09,57.09-57.09Z"/>
+    </g>
+  </g>
+  <path class="st14" d="M865.07,808v57.09h-57.09v-57.09h57.09Z"/>
+  <g>
+    <rect class="st9" x="807.99" y="808" width="57.09" height="57.09"/>
+    <g class="st3">
+      <path class="st9" d="M836.54,779.46l57.09,57.09-57.09,57.09-57.09-57.09,57.09-57.09Z"/>
+    </g>
+  </g>
+  <path class="st5" d="M979.28,237.05v57.09h-285.47v-57.09h285.47Z"/>
+  <g class="st4">
+    <path class="st5" d="M836.54,94.32l171.29,171.28-171.29,171.29-171.28-171.28,171.28-171.29Z"/>
+  </g>
+  <path class="st5" d="M693.81,636.71h285.47v-285.47h-285.47v285.47ZM922.18,579.62h-171.28v-171.28h171.28v171.28Z"/>
+  <g class="st6">
+    <path class="st5" d="M836.54,208.51l285.47,285.47-285.47,285.47-285.47-285.47,285.47-285.47Z"/>
+  </g>
+  <path class="st5" d="M693.81,979.28h285.47v-285.47h-285.47v285.47ZM922.18,922.19h-171.28v-171.28h171.28v171.28Z"/>
+  <g class="st13">
+    <path class="st5" d="M836.54,551.07l285.47,285.47-285.47,285.47-285.47-285.47,285.47-285.47Z"/>
+  </g>
+  <path class="st5" d="M122.86,1093.47h970.61V122.86H122.86v970.61ZM1036.37,1036.37H179.96V179.96h856.42"/>
+  <path class="st7" d="M122.86,1093.47h970.61V122.86H122.86v970.61ZM1036.37,1036.37H179.96V179.96h856.42l-.02,856.4Z"/>
+</svg>
